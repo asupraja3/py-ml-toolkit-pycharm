@@ -310,4 +310,3 @@ pivoted_df = df.pivot(index='Name', columns='Department', values='Salary')
 
 
 
-
